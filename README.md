@@ -3,4 +3,4 @@
 
 
 # translate_V2.py
-1.用于翻译excl文件
+1.用于翻译excel文件的内容
